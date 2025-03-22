@@ -4,7 +4,7 @@
 
 #include "include/warmup_solver.h"
 
-const char WARMUP_INSTANCE[] = "01-tecla-king/";
+const char WARMUP_INSTANCE[] = "06-jogo-estrategia/";
 const char INPUT_DIR[] = "input/";
 const char FILE_PREFIX[] = "instance_";
 
