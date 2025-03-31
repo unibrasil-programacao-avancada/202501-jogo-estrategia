@@ -16,6 +16,6 @@ O jogo consiste em vários jogadores participando de inúmeras rodadas, onde cad
 - `check_warmup_solution(const char* file_name, const char* warmup_instance)`: Função que compara a solução gerada com a resposta esperada para verificar a correção.
 
 ## --- Desenvolvedores ---
-Henrique Rocha, 2022202432
-Marcos Irenos, 2023101873
-Otavio Mello, 2023200542
+- Henrique Rocha, 2022202432
+- Marcos Irenos, 2023101873
+- Otavio Mello, 2023200542
